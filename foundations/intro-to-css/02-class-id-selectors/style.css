@@ -1,0 +1,9 @@
+.reg,
+.fancy {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.fancy {
+    font-size: 72px;
+}
