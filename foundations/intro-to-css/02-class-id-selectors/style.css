@@ -5,5 +5,16 @@
 }
 
 .fancy {
-    font-size: 72px;
+    font-size: 36px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
